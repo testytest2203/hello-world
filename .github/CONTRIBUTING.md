@@ -1,2 +1,2 @@
-CONTRIBUTING
+
 Hello there! 
